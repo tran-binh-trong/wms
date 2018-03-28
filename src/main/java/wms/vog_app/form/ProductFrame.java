@@ -111,7 +111,7 @@ public class ProductFrame extends JFrame {
 	}
 
 	/***
-	 * Layoout the main panel
+	 * Layout the main panel
 	 *
 	 * @param jMainPanel
 	 */
